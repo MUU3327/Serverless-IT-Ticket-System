@@ -80,7 +80,7 @@ function sendNotificationEmail(e) {
             <div style="max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);">
                 
                 <div style="padding: 40px; text-align: center; border-bottom: 1px solid #e0e0e0;">
-                    <h1 style="font-size: 2.2em; font-weight: 700; margin: 0; color: #11a7bc; letter-spacing: 2px;">VO2 APAC IT HELP</h1>
+                    <h1 style="font-size: 2.2em; font-weight: 700; margin: 0; color: #11a7bc; letter-spacing: 2px;">IT HELP</h1>
                 </div>
 
                 <div style="padding: 40px;">
@@ -139,7 +139,7 @@ function sendNotificationEmail(e) {
                 
                 <div style="padding: 20px; text-align: center; font-size: 0.8em; color: #888888; border-top: 1px solid #e0e0e0;">
                     <p style="margin: 0 0 5px;">This is an automated message. Please do not reply.</p>
-                    <p style="margin: 0;">© 2025 VO2 Group. All rights reserved.</p>
+                    <p style="margin: 0;">© All rights reserved.</p>
                 </div>
                 
             </div>
@@ -205,7 +205,7 @@ function onEdit(e) {
             <div style="background-color: #e0f1f5; padding-top: 40px; padding-bottom: 40px;">
               <div style="max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
                   <div style="padding: 30px 40px 20px; text-align: center; border-bottom: 1px solid #e0e0e0;">
-                      <h1 style="font-size: 28px; font-weight: 700; margin: 0; color: #11a7bc; letter-spacing: 1px;">VO2 APAC IT Help</h1>
+                      <h1 style="font-size: 28px; font-weight: 700; margin: 0; color: #11a7bc; letter-spacing: 1px;">IT Help</h1>
                   </div>
                   <div style="padding: 40px;">
                       <div style="text-align: center; margin-bottom: 30px;">
@@ -238,7 +238,7 @@ function onEdit(e) {
                   </div>
                   <div style="text-align: center; font-size: 12px; color: #888888; padding: 20px 0 40px; border-top: 1px solid #e0e0e0;">
                       <p style="margin: 0;">This is an automated message. Please do not reply.</p>
-                      <p style="margin: 5px 0 0;">© 2025 VO2 Group. All rights reserved.</p>
+                      <p style="margin: 5px 0 0;">© All rights reserved.</p>
                   </div>
               </div>
             </div>
@@ -277,7 +277,7 @@ function onEdit(e) {
             <div style="background-color: #e0f1f5; padding-top: 40px; padding-bottom: 40px;">
               <div style="max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
                   <div style="padding: 30px 40px 20px; text-align: center; border-bottom: 1px solid #e0e0e0;">
-                      <h1 style="font-size: 28px; font-weight: 700; margin: 0; color: #11a7bc; letter-spacing: 1px;">VO2 APAC IT Help</h1>
+                      <h1 style="font-size: 28px; font-weight: 700; margin: 0; color: #11a7bc; letter-spacing: 1px;">IT Help</h1>
                   </div>
                   <div style="padding: 40px;">
                       <div style="text-align: center; margin-bottom: 30px;">
@@ -310,7 +310,7 @@ function onEdit(e) {
                   </div>
                   <div style="text-align: center; font-size: 12px; color: #888888; padding: 20px 0 40px; border-top: 1px solid #e0e0e0;">
                       <p style="margin: 0;">This is an automated message. Please do not reply.</p>
-                      <p style="margin: 5px 0 0;">© 2025 VO2 Group. All rights reserved.</p>
+                      <p style="margin: 5px 0 0;">© All rights reserved.</p>
                   </div>
               </div>
             </div>
